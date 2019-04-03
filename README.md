@@ -8,9 +8,10 @@ Use the Typedefs JS library from the commandline.
 
 ## Installation
 
-To install this tool globally, run
+To install this tool globally [from NPM](https://npm.im/typedefs), run
 
 ```sh
+# https://npm.im/typedefs
 npm install -g typedefs
 ```
 
