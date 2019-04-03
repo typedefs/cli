@@ -1,0 +1,31 @@
+{
+  "name": "typedefs",
+  "version": "0.0.1",
+  "description": "Typedefs commandline tool",
+  "bin": {
+    "typedefs": "./typedefs-cli.js",
+    "typedefs-codegen": "./typedefs-cli-codegen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typedefs/typedefs-cli.git"
+  },
+  "files": [
+    "typedefs-cli-*.js",
+    "util.js",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/typedefs/typedefs-cli/issues"
+  },
+  "homepage": "https://github.com/typedefs/typedefs-cli#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "get-stdin": "^6.0.0",
+    "typedefs-js": "^1.0.1"
+  }
+}
