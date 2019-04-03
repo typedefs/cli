@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/typedefs/cli.svg?branch=master)](https://travis-ci.com/typedefs/cli)
+
 # Typedefs Commandline Tool
 
 Use the Typedefs JS library from the commandline.
