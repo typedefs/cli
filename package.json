@@ -1,6 +1,6 @@
 {
   "name": "typedefs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Typedefs commandline tool",
   "bin": {
     "typedefs": "./typedefs-cli.js",
