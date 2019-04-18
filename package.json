@@ -1,6 +1,6 @@
 {
   "name": "typedefs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typedefs commandline tool",
   "bin": {
     "typedefs": "./typedefs-cli.js",
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/typedefs/typedefs-cli.git"
   },
   "files": [
+    "typedefs-cli.js",
     "typedefs-cli-*.js",
     "util.js",
     "package.json",
